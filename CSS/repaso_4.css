@@ -1,0 +1,28 @@
+.fondoRojo{
+    background-color: red;
+    color:black;
+    transition: 1.5s;
+}
+
+.fondoAzul{
+    background-color: blue;
+    color:#ffffff;
+    transition: 1.5s;
+}
+
+.bordeMorado{
+    border-width: 2px;
+    border-color: blueviolet;
+    border-style: dashed;
+}
+
+.sombra{
+    box-shadow: 5px 5px 15px black;
+    transition: 0.5s;
+}
+
+.nosombra{
+    box-shadow: none;
+    transition: 0.5s;
+
+}
